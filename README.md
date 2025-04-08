@@ -1,4 +1,4 @@
-### Hi there 👋 my name is To'a and I'm an IT Applications Specialist
+### Hi there 👋 my name is To'a and I'm a Junior Full-Stack Engineer
 
 <!--
 **ToaHeck/ToaHeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
